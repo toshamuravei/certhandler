@@ -1,0 +1,15 @@
+.env/*
+*.egg-info
+.ipynb_checkpoints
+.vscode
+.projectile
+TAGS
+*.sqlite3
+__pycache__
+*.pyc
+*.so
+*.gz
+.mypy_cache
+.docker_root_home
+settings.py
+.pytest_cache
